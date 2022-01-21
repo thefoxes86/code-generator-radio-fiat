@@ -1,6 +1,6 @@
 import logo from "./logo.svg";
 import "./App.css";
-import { useRef, useState } from "react";
+import { useState } from "react";
 
 function App() {
   let arrayResult = new Array(4);
